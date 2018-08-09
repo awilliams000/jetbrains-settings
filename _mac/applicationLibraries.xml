@@ -1,6 +1,9 @@
 <application>
   <component name="libraryTable">
-    <library name="addressable (v2.4.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="addressable (v2.4.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/addressable-2.4.0/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/addressable-2.4.0/data" />
@@ -19,7 +22,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/addressable-2.4.0/tasks" />
       </excluded>
     </library>
-    <library name="appbundler (v0.10.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="appbundler (v0.10.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/appbundler-0.10.0/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/appbundler-0.10.0/lib" />
@@ -35,7 +41,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/appbundler-0.10.0/spec" />
       </excluded>
     </library>
-    <library name="ast (v2.3.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="ast (v2.3.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ast-2.3.0/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ast-2.3.0/test" />
@@ -48,7 +57,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ast-2.3.0/test" />
       </excluded>
     </library>
-    <library name="binding_of_caller (v0.7.2, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="binding_of_caller (v0.7.2, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/lib" />
@@ -67,7 +79,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/examples" />
       </excluded>
     </library>
-    <library name="builder (v3.2.3, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="builder (v3.2.3, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/builder-3.2.3/doc" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/builder-3.2.3/lib" />
@@ -86,7 +101,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/builder-3.2.3/rakelib" />
       </excluded>
     </library>
-    <library name="bundler (v1.12.5, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="bundler (v1.12.5, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/exe" />
@@ -105,13 +123,18 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/man" />
       </excluded>
     </library>
-    <library name="byebug (v9.0.6, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="byebug (v9.0.6, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/byebug/9.0.6" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/ext" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/byebug/9.0.6" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/ext" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/lib" />
@@ -121,7 +144,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/ext" />
       </excluded>
     </library>
-    <library name="chef (v12.19.36, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="chef (v12.19.36, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/chef-12.19.36/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/chef-12.19.36/lib" />
@@ -151,7 +177,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/chef-12.19.36/acceptance" />
       </excluded>
     </library>
-    <library name="chef-config (v12.19.36, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="chef-config (v12.19.36, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/chef-config-12.19.36/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/chef-config-12.19.36/spec" />
@@ -164,7 +193,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/chef-config-12.19.36/spec" />
       </excluded>
     </library>
-    <library name="chef-zero (v5.3.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="chef-zero (v5.3.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/chef-zero-5.3.0/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/chef-zero-5.3.0/lib" />
@@ -180,7 +212,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/chef-zero-5.3.0/spec" />
       </excluded>
     </library>
-    <library name="cheffish (v4.1.1, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="cheffish (v4.1.1, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/cheffish-4.1.1/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/cheffish-4.1.1/spec" />
@@ -193,7 +228,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/cheffish-4.1.1/spec" />
       </excluded>
     </library>
-    <library name="chefstyle (v0.5.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="chefstyle (v0.5.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/chefstyle-0.5.0/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/chefstyle-0.5.0/lib" />
@@ -209,7 +247,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/chefstyle-0.5.0/config" />
       </excluded>
     </library>
-    <library name="coderay (v1.1.1, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="coderay (v1.1.1, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/lib" />
@@ -225,7 +266,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/test" />
       </excluded>
     </library>
-    <library name="debug_inspector (v0.0.2, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="debug_inspector (v0.0.2, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
@@ -238,7 +282,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/ext" />
       </excluded>
     </library>
-    <library name="did_you_mean (v1.0.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="did_you_mean (v1.0.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/doc" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
@@ -260,7 +307,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/evaluation" />
       </excluded>
     </library>
-    <library name="diff-lcs (v1.3, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="diff-lcs (v1.3, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/lib" />
@@ -282,7 +332,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/autotest" />
       </excluded>
     </library>
-    <library name="docile (v1.1.5, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="docile (v1.1.5, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/docile-1.1.5/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/docile-1.1.5/spec" />
@@ -295,7 +348,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/docile-1.1.5/spec" />
       </excluded>
     </library>
-    <library name="erubis (v2.7.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="erubis (v2.7.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/doc" />
@@ -326,8 +382,12 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/benchmark" />
       </excluded>
     </library>
-    <library name="ffi (v1.9.17, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="ffi (v1.9.17, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/ffi/1.9.17" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.17/ext" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.17/gen" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.17/lib" />
@@ -335,6 +395,7 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.17/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/ffi/1.9.17" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.17/ext" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.17/gen" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.17/lib" />
@@ -348,14 +409,19 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.17/libtest" />
       </excluded>
     </library>
-    <library name="ffi-yajl (v2.3.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="ffi-yajl (v2.3.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/ffi-yajl/2.3.0" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ffi-yajl-2.3.0/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ffi-yajl-2.3.0/ext" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ffi-yajl-2.3.0/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ffi-yajl-2.3.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/ffi-yajl/2.3.0" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ffi-yajl-2.3.0/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ffi-yajl-2.3.0/ext" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ffi-yajl-2.3.0/lib" />
@@ -367,7 +433,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ffi-yajl-2.3.0/spec" />
       </excluded>
     </library>
-    <library name="fuzzyurl (v0.9.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="fuzzyurl (v0.9.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/fuzzyurl-0.9.0/lib" />
       </CLASSES>
@@ -375,7 +444,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/fuzzyurl-0.9.0/lib" />
       </SOURCES>
     </library>
-    <library name="hashie (v3.5.3, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="hashie (v3.5.3, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/hashie-3.5.3/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/hashie-3.5.3/spec" />
@@ -388,7 +460,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/hashie-3.5.3/spec" />
       </excluded>
     </library>
-    <library name="highline (v1.7.8, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="highline (v1.7.8, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/highline-1.7.8/doc" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/highline-1.7.8/lib" />
@@ -410,7 +485,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/highline-1.7.8/examples" />
       </excluded>
     </library>
-    <library name="iniparse (v1.4.2, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="iniparse (v1.4.2, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/iniparse-1.4.2/lib" />
       </CLASSES>
@@ -418,7 +496,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/iniparse-1.4.2/lib" />
       </SOURCES>
     </library>
-    <library name="ipaddress (v0.8.3, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="ipaddress (v0.8.3, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ipaddress-0.8.3/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ipaddress-0.8.3/test" />
@@ -431,8 +512,12 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ipaddress-0.8.3/test" />
       </excluded>
     </library>
-    <library name="json (v2.0.3, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="json (v2.0.3, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/json/2.0.3" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/json-2.0.3/ext" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/json-2.0.3/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/json-2.0.3/data" />
@@ -443,6 +528,7 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/json-2.0.3/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/json/2.0.3" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/json-2.0.3/ext" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/json-2.0.3/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/json-2.0.3/data" />
@@ -462,13 +548,18 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/json-2.0.3/references" />
       </excluded>
     </library>
-    <library name="libyajl2 (v1.2.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="libyajl2 (v1.2.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/libyajl2/1.2.0" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/libyajl2-1.2.0/ext" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/libyajl2-1.2.0/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/libyajl2-1.2.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/libyajl2/1.2.0" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/libyajl2-1.2.0/ext" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/libyajl2-1.2.0/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/libyajl2-1.2.0/spec" />
@@ -478,7 +569,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/libyajl2-1.2.0/spec" />
       </excluded>
     </library>
-    <library name="method_source (v0.8.2, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="method_source (v0.8.2, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/method_source-0.8.2/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/method_source-0.8.2/test" />
@@ -491,7 +585,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/method_source-0.8.2/test" />
       </excluded>
     </library>
-    <library name="mini_portile2 (v2.1.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="mini_portile2 (v2.1.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mini_portile2-2.1.0/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mini_portile2-2.1.0/test" />
@@ -504,7 +601,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mini_portile2-2.1.0/test" />
       </excluded>
     </library>
-    <library name="minitest (v5.8.3, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="minitest (v5.8.3, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/minitest-5.8.3/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/minitest-5.8.3/test" />
@@ -517,7 +617,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/minitest-5.8.3/test" />
       </excluded>
     </library>
-    <library name="mixlib-archive (v0.4.1, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="mixlib-archive (v0.4.1, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mixlib-archive-0.4.1/lib" />
       </CLASSES>
@@ -525,7 +628,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mixlib-archive-0.4.1/lib" />
       </SOURCES>
     </library>
-    <library name="mixlib-authentication (v1.4.1, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="mixlib-authentication (v1.4.1, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mixlib-authentication-1.4.1/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mixlib-authentication-1.4.1/spec" />
@@ -538,7 +644,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mixlib-authentication-1.4.1/spec" />
       </excluded>
     </library>
-    <library name="mixlib-cli (v1.7.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="mixlib-cli (v1.7.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mixlib-cli-1.7.0/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mixlib-cli-1.7.0/spec" />
@@ -551,7 +660,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mixlib-cli-1.7.0/spec" />
       </excluded>
     </library>
-    <library name="mixlib-config (v2.2.4, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="mixlib-config (v2.2.4, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mixlib-config-2.2.4/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mixlib-config-2.2.4/spec" />
@@ -564,7 +676,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mixlib-config-2.2.4/spec" />
       </excluded>
     </library>
-    <library name="mixlib-log (v1.7.1, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="mixlib-log (v1.7.1, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mixlib-log-1.7.1/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mixlib-log-1.7.1/spec" />
@@ -577,7 +692,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mixlib-log-1.7.1/spec" />
       </excluded>
     </library>
-    <library name="mixlib-shellout (v2.2.7, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="mixlib-shellout (v2.2.7, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mixlib-shellout-2.2.7/lib" />
       </CLASSES>
@@ -585,7 +703,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/mixlib-shellout-2.2.7/lib" />
       </SOURCES>
     </library>
-    <library name="multi_json (v1.12.1, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="multi_json (v1.12.1, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
       </CLASSES>
@@ -593,7 +714,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
       </SOURCES>
     </library>
-    <library name="net-scp (v1.2.1, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="net-scp (v1.2.1, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-scp-1.2.1/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-scp-1.2.1/test" />
@@ -606,7 +730,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-scp-1.2.1/test" />
       </excluded>
     </library>
-    <library name="net-sftp (v2.1.2, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="net-sftp (v2.1.2, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test" />
@@ -619,7 +746,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test" />
       </excluded>
     </library>
-    <library name="net-ssh (v4.0.1, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="net-ssh (v4.0.1, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-4.0.1/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-4.0.1/support" />
@@ -632,7 +762,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-4.0.1/support" />
       </excluded>
     </library>
-    <library name="net-ssh-gateway (v1.3.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="net-ssh-gateway (v1.3.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-gateway-1.3.0/lib" />
       </CLASSES>
@@ -640,7 +773,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-gateway-1.3.0/lib" />
       </SOURCES>
     </library>
-    <library name="net-ssh-multi (v1.2.1, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="net-ssh-multi (v1.2.1, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-multi-1.2.1/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-multi-1.2.1/test" />
@@ -653,7 +789,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-multi-1.2.1/test" />
       </excluded>
     </library>
-    <library name="net-telnet (v0.1.1, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="net-telnet (v0.1.1, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/lib" />
@@ -666,7 +805,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
       </excluded>
     </library>
-    <library name="nokogiri (v1.7.0.1, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="nokogiri (v1.7.0.1, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.0.1/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.0.1/ext" />
@@ -694,7 +836,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.0.1/suppressions" />
       </excluded>
     </library>
-    <library name="ohai (v8.23.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="ohai (v8.23.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ohai-8.23.0/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ohai-8.23.0/lib" />
@@ -716,7 +861,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ohai-8.23.0/.bundle" />
       </excluded>
     </library>
-    <library name="parser (v2.4.0.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="parser (v2.4.0.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/parser-2.4.0.0/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/parser-2.4.0.0/doc" />
@@ -735,7 +883,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/parser-2.4.0.0/test" />
       </excluded>
     </library>
-    <library name="plist (v3.2.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="plist (v3.2.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/plist-3.2.0/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/plist-3.2.0/test" />
@@ -748,7 +899,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/plist-3.2.0/test" />
       </excluded>
     </library>
-    <library name="power_assert (v0.2.6, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="power_assert (v0.2.6, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/test" />
@@ -761,7 +915,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/test" />
       </excluded>
     </library>
-    <library name="powerpack (v0.1.1, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="powerpack (v0.1.1, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/spec" />
@@ -774,7 +931,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/spec" />
       </excluded>
     </library>
-    <library name="proxifier (v1.0.3, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="proxifier (v1.0.3, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/proxifier-1.0.3/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/proxifier-1.0.3/lib" />
@@ -787,7 +947,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/proxifier-1.0.3/bin" />
       </excluded>
     </library>
-    <library name="pry (v0.10.4, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="pry (v0.10.4, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/pry-0.10.4/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/pry-0.10.4/lib" />
@@ -800,7 +963,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/pry-0.10.4/bin" />
       </excluded>
     </library>
-    <library name="pry-byebug (v3.4.2, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="pry-byebug (v3.4.2, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/pry-byebug-3.4.2/lib" />
       </CLASSES>
@@ -808,7 +974,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/pry-byebug-3.4.2/lib" />
       </SOURCES>
     </library>
-    <library name="pry-remote (v0.1.8, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="pry-remote (v0.1.8, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/pry-remote-0.1.8/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/pry-remote-0.1.8/lib" />
@@ -821,7 +990,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/pry-remote-0.1.8/bin" />
       </excluded>
     </library>
-    <library name="pry-stack_explorer (v0.4.9.2, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="pry-stack_explorer (v0.4.9.2, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/pry-stack_explorer-0.4.9.2/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/pry-stack_explorer-0.4.9.2/test" />
@@ -837,7 +1009,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/pry-stack_explorer-0.4.9.2/examples" />
       </excluded>
     </library>
-    <library name="rack (v2.0.1, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="rack (v2.0.1, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rack-2.0.1/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rack-2.0.1/lib" />
@@ -859,7 +1034,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rack-2.0.1/example" />
       </excluded>
     </library>
-    <library name="rainbow (v2.2.1, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="rainbow (v2.2.1, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rainbow-2.2.1/ext" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rainbow-2.2.1/lib" />
@@ -875,7 +1053,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rainbow-2.2.1/spec" />
       </excluded>
     </library>
-    <library name="rake (v10.4.2, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="rake (v10.4.2, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rake-10.4.2/doc" />
@@ -897,7 +1078,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rake-10.4.2/rakelib" />
       </excluded>
     </library>
-    <library name="rake (v11.3.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="rake (v11.3.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rake-11.3.0/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rake-11.3.0/doc" />
@@ -916,7 +1100,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rake-11.3.0/exe" />
       </excluded>
     </library>
-    <library name="rb-readline (v0.5.4, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="rb-readline (v0.5.4, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rb-readline-0.5.4/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rb-readline-0.5.4/test" />
@@ -935,7 +1122,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rb-readline-0.5.4/examples" />
       </excluded>
     </library>
-    <library name="rspec (v3.5.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="rspec (v3.5.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec-3.5.0/lib" />
       </CLASSES>
@@ -943,7 +1133,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec-3.5.0/lib" />
       </SOURCES>
     </library>
-    <library name="rspec-core (v3.5.4, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="rspec-core (v3.5.4, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec-core-3.5.4/exe" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec-core-3.5.4/lib" />
@@ -956,7 +1149,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec-core-3.5.4/exe" />
       </excluded>
     </library>
-    <library name="rspec-expectations (v3.5.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="rspec-expectations (v3.5.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.5.0/lib" />
       </CLASSES>
@@ -964,7 +1160,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.5.0/lib" />
       </SOURCES>
     </library>
-    <library name="rspec-its (v1.2.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="rspec-its (v1.2.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec-its-1.2.0/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec-its-1.2.0/spec" />
@@ -980,10 +1179,12 @@
       <excluded>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec-its-1.2.0/spec" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec-its-1.2.0/script" />
-        <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec-its-1.2.0/features" />
       </excluded>
     </library>
-    <library name="rspec-mocks (v3.5.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="rspec-mocks (v3.5.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec-mocks-3.5.0/lib" />
       </CLASSES>
@@ -991,7 +1192,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec-mocks-3.5.0/lib" />
       </SOURCES>
     </library>
-    <library name="rspec-support (v3.5.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="rspec-support (v3.5.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec-support-3.5.0/lib" />
       </CLASSES>
@@ -999,7 +1203,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec-support-3.5.0/lib" />
       </SOURCES>
     </library>
-    <library name="rspec_junit_formatter (v0.2.3, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="rspec_junit_formatter (v0.2.3, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec_junit_formatter-0.2.3/lib" />
       </CLASSES>
@@ -1007,7 +1214,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rspec_junit_formatter-0.2.3/lib" />
       </SOURCES>
     </library>
-    <library name="rubocop (v0.47.1, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="rubocop (v0.47.1, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rubocop-0.47.1/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rubocop-0.47.1/lib" />
@@ -1026,7 +1236,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rubocop-0.47.1/config" />
       </excluded>
     </library>
-    <library name="ruby-prof (v0.16.2, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="ruby-prof (v0.16.2, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ruby-prof-0.16.2/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ruby-prof-0.16.2/doc" />
@@ -1051,7 +1264,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ruby-prof-0.16.2/examples" />
       </excluded>
     </library>
-    <library name="ruby-progressbar (v1.8.1, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="ruby-progressbar (v1.8.1, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.8.1/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.8.1/spec" />
@@ -1064,7 +1280,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.8.1/spec" />
       </excluded>
     </library>
-    <library name="ruby-shadow (v2.5.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="ruby-shadow (v2.5.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ruby-shadow-2.5.0/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ruby-shadow-2.5.0/pwd" />
@@ -1080,7 +1299,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/ruby-shadow-2.5.0/shadow" />
       </excluded>
     </library>
-    <library name="rubygems-update (v2.6.10, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="rubygems-update (v2.6.10, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.10/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.10/lib" />
@@ -1105,7 +1327,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.10/bundler" />
       </excluded>
     </library>
-    <library name="serverspec (v2.38.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="serverspec (v2.38.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/serverspec-2.38.0/bin" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/serverspec-2.38.0/lib" />
@@ -1121,7 +1346,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/serverspec-2.38.0/spec" />
       </excluded>
     </library>
-    <library name="sfl (v2.3, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="sfl (v2.3, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/sfl-2.3/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/sfl-2.3/spec" />
@@ -1134,7 +1362,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/sfl-2.3/spec" />
       </excluded>
     </library>
-    <library name="simplecov (v0.13.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="simplecov (v0.13.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/simplecov-0.13.0/doc" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/simplecov-0.13.0/lib" />
@@ -1150,10 +1381,12 @@
       <excluded>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/simplecov-0.13.0/doc" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/simplecov-0.13.0/spec" />
-        <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/simplecov-0.13.0/features" />
       </excluded>
     </library>
-    <library name="simplecov-html (v0.10.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="simplecov-html (v0.10.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.0/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.0/test" />
@@ -1175,7 +1408,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.0/public" />
       </excluded>
     </library>
-    <library name="slop (v3.6.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="slop (v3.6.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/slop-3.6.0/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/slop-3.6.0/test" />
@@ -1188,7 +1424,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/slop-3.6.0/test" />
       </excluded>
     </library>
-    <library name="specinfra (v2.66.9, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="specinfra (v2.66.9, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/specinfra-2.66.9/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/specinfra-2.66.9/spec" />
@@ -1204,7 +1443,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/specinfra-2.66.9/examples" />
       </excluded>
     </library>
-    <library name="syslog-logger (v1.6.8, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="syslog-logger (v1.6.8, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/syslog-logger-1.6.8/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/syslog-logger-1.6.8/test" />
@@ -1217,7 +1459,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/syslog-logger-1.6.8/test" />
       </excluded>
     </library>
-    <library name="systemu (v2.6.5, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="systemu (v2.6.5, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/systemu-2.6.5/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/systemu-2.6.5/test" />
@@ -1233,7 +1478,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/systemu-2.6.5/samples" />
       </excluded>
     </library>
-    <library name="test-unit (v3.1.5, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="test-unit (v3.1.5, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/doc" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
@@ -1252,7 +1500,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
       </excluded>
     </library>
-    <library name="unicode-display_width (v1.1.3, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="unicode-display_width (v1.1.3, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.1.3/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.1.3/data" />
@@ -1268,7 +1519,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.1.3/spec" />
       </excluded>
     </library>
-    <library name="uuidtools (v2.1.5, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="uuidtools (v2.1.5, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/uuidtools-2.1.5/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/uuidtools-2.1.5/spec" />
@@ -1287,7 +1541,10 @@
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/uuidtools-2.1.5/website" />
       </excluded>
     </library>
-    <library name="wmi-lite (v1.0.0, Chef DK: /opt/chef) [gem]" type="ruby">
+    <library name="wmi-lite (v1.0.0, Chef DK: /opt/chef) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/wmi-lite-1.0.0/lib" />
         <root url="file:///opt/chef/embedded/lib/ruby/gems/2.3.0/gems/wmi-lite-1.0.0/spec" />
