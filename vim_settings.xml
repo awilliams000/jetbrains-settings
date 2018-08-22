@@ -3,12 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/rubymine.vmoptions" timestamp="1534919513531">
-        <mark key="[" line="20" column="68" />
+      <file name="$APPLICATION_CONFIG_DIR$/rubymine.vmoptions" timestamp="1534919591819">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Ci1qYXZhYWdlbnQ6L1VzZXJzL3NwMDBrL0Rvd25sb2Fkcy9KZXRicmFpbnNDcmFjay0zLjEtcmVsZWFzZS1lbmMuamFyCgp7ImxpY2Vuc2VJZCI6IlRoaXNDcmFja0xpY2Vuc2VJZCIsCiJsaWNlbnNlZU5hbWUiOiJsYXVjeXVuIiwKImFzc2lnbmVlTmFtZSI6ImxhdWN5dW4iLAoiYXNzaWduZWVFbWFpbCI6ImxpdUBsYXVjeXVuLmNvbSIsCiJsaWNlbnNlUmVzdHJpY3Rpb24iOiJCeSBMYXVDeXVuIENyYWNrLCBPbmx5IFRlc3QhIFBsZWFzZSBzdXBwb3J0IGdlbnVpbmUhISEiLAoiY2hlY2tDb25jdXJyZW50VXNlIjpmYWxzZSwKInByb2R1Y3RzIjpbCnsiY29kZSI6IklJIiwicGFpZFVwVG8iOiIyMDk5LTEyLTMxIn0sCnsiY29kZSI6IkRNIiwicGFpZFVwVG8iOiIyMDk5LTEyLTMxIn0sCnsiY29kZSI6IkFDIiwicGFpZFVwVG8iOiIyMDk5LTEyLTMxIn0sCnsiY29kZSI6IlJTMCIsInBhaWRVcFRvIjoiMjA5OS0xMi0zMSJ9LAp7ImNvZGUiOiJXUyIsInBhaWRVcFRvIjoiMjA5OS0xMi0zMSJ9LAp7ImNvZGUiOiJEUE4iLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiUkMiLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiUFMiLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiREMiLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiUk0iLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiQ0wiLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiUEMiLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiREIiLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiR08iLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiUkQiLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifQpdLAoiaGFzaCI6IjI5MTEyNzYvMCIsCiJncmFjZVBlcmlvZERheXMiOjcsCiJhdXRvUHJvbG9uZ2F0ZWQiOmZhbHNlfQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ci1qYXZhYWdlbnQ6L1VzZXJzL3NwMDBrL0Rvd25sb2Fkcy9KZXRicmFpbnNDcmFjay0zLjEtcmVsZWFzZS1lbmMuamFyCgp7ImxpY2Vuc2VJZCI6IlRoaXNDcmFja0xpY2Vuc2VJZCIsCiJsaWNlbnNlZU5hbWUiOiJsYXVjeXVuIiwKImFzc2lnbmVlTmFtZSI6ImxhdWN5dW4iLAoiYXNzaWduZWVFbWFpbCI6ImxpdUBsYXVjeXVuLmNvbSIsCiJsaWNlbnNlUmVzdHJpY3Rpb24iOiJCeSBMYXVDeXVuIENyYWNrLCBPbmx5IFRlc3QhIFBsZWFzZSBzdXBwb3J0IGdlbnVpbmUhISEiLAoiY2hlY2tDb25jdXJyZW50VXNlIjpmYWxzZSwKInByb2R1Y3RzIjpbCnsiY29kZSI6IklJIiwicGFpZFVwVG8iOiIyMDk5LTEyLTMxIn0sCnsiY29kZSI6IkRNIiwicGFpZFVwVG8iOiIyMDk5LTEyLTMxIn0sCnsiY29kZSI6IkFDIiwicGFpZFVwVG8iOiIyMDk5LTEyLTMxIn0sCnsiY29kZSI6IlJTMCIsInBhaWRVcFRvIjoiMjA5OS0xMi0zMSJ9LAp7ImNvZGUiOiJXUyIsInBhaWRVcFRvIjoiMjA5OS0xMi0zMSJ9LAp7ImNvZGUiOiJEUE4iLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiUkMiLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiUFMiLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiREMiLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiUk0iLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiQ0wiLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiUEMiLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiREIiLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiR08iLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifSwKeyJjb2RlIjoiUkQiLCJwYWlkVXBUbyI6IjIwOTktMTItMzEifQpdLAoiaGFzaCI6IjI5MTEyNzYvMCIsCiJncmFjZVBlcmlvZERheXMiOjcsCiJhdXRvUHJvbG9uZ2F0ZWQiOmZhbHNlfQo=</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
